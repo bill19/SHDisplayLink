@@ -23,7 +23,7 @@ static CFTimeInterval const kScreenShotTimeDiff = 10;
 {
     self = [super initWithFrame:frame];
     if (self) {
-
+        //INFO
         [self setupSubViews];
         [self creatDisplayLink];
     }
